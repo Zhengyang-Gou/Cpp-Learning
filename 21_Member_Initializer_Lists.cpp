@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 /*
 对于像 int、float 这样的基本数据类型，两种写法在性能上没有任何区别
 但是，当你的成员变量是另一个类时，区别就大
