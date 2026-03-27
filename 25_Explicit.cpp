@@ -1,4 +1,3 @@
-#include <iostream>
 #include <string>
 
 class Entity {
@@ -45,7 +44,7 @@ int main() {
     // PrintEntity(22); // 编译器报错！
     
     // 必须显式地调用构造函数，代码意图非常清晰：
-    Entity a(22); 
-    Entity b = Entity(22);
+    Entity a2(22); 
+    Entity b2 = Entity(22);
     PrintEntity(Entity(22));
 }
