@@ -1,4 +1,4 @@
-# 48 - C++ 局部静态变量 (Local Static)
+# 33 - C++ 局部静态变量 (Local Static)
 
 ## 1. 基本概念 (Basic Concepts)
 
