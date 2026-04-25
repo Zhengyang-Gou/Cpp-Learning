@@ -1,4 +1,4 @@
-# 68 - C++ 中的虚析构函数 (Virtual Destructors in C++)
+# 50 - C++ 中的虚析构函数 (Virtual Destructors in C++)
 
 ## 1. 基本概念 
 
