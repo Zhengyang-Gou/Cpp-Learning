@@ -1,4 +1,4 @@
-# 57 - C++ 静态数组 (Static Arrays / std::array)
+# 39 - C++ 静态数组 (Static Arrays / std::array)
 
 ## 1. 基本概念 (Basic Concepts)
 
